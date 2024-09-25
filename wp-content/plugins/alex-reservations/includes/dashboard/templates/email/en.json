@@ -1,0 +1,58 @@
+{
+  "booking_pending": {
+    "subject": "Your booking is pending at {date}",
+    "content": "Hello {name},\n\nYour booking request is wating to be confirmed.\nGive us a few moments to make sure that we have got space for you.\nYou will receive another email from us soon.\nIf this request was made outside of our normal working hours, we may not be able to confirm it until we are open again.\n\nYour request details:\n Name: {name}\n Email: {email}\n Party: {party}\n Date: {date}\n Phone: {phone}\n\n You can update or cancel your booking here:\n {mybooking}\n\n This message was sent by {site_link} on {current_date}."
+  },
+  "booking_booked": {
+    "subject": "Your booking is confirmed at {date}",
+    "content": "Hello {name}, \nYour booking request has been confirmed.\n\n We look forward to seeing you soon.\n Your booking:\n Name: {name} \nEmail: {email} \nParty: {party} \nDate: {date} \n\n You can update or cancel your booking here:\n {mybooking}\n\n This message was sent by {site_link} on {current_date}."
+  },
+  "booking_confirmed": {
+    "subject": "Subject EN",
+    "content": "Content EN"
+  },
+  "booking_modified": {
+    "subject": "Subject modified",
+    "content": "Content modified"
+  },
+  "booking_denied": {
+    "subject": "Your booking for {date} has been rejected",
+    "content": "Hello {name}, \nSorry, we could not accomodate your booking request. \nWe're full or not open at the time you requested. \n\n Your request details:\n Name: {name} \nEmail: {email} \nParty: {party} \nDate: {date} \n\n This message was sent by {site_link} on {current_date}."
+  },
+  "booking_cancelled": {
+    "subject": "Your booking for {date} has been cancelled",
+    "content": "Hello {name}, \nYour booking has been cancelled. \n\nYour request details:\n Name: {name} \nEmail: {email} \nParty: {party} \nDate: {date} \n\n This message was sent by {site_link} on {current_date}."
+  },
+  "booking_no_show": {
+    "subject": "Your booking as no-show",
+    "content": "Hello {name}, \nYour booking has been marked as no-show in our system. \n\nYour request details:\n Name: {name} \nEmail: {email} \nParty: {party} \nDate: {date} \n\n This message was sent by {site_link} on {current_date}."
+  },
+  "booking_finished": {
+    "subject": "How was your experience?",
+    "content": "<p>Please, tell us how was your experience: \n {mybooking} \n\n This message was sent by {site_link} on {current_date}."
+  },
+  "booking_pending_admin": {
+    "subject": "New booking pending",
+    "content": "A new pending booking has been requested at {restaurant}.\n\n Name: {name} \n Email: {email} \n Party: {party} \n Date: {date}"
+  },
+  "booking_booked_admin": {
+    "subject": "New booking confirmed",
+    "content": "A new confirmed booking has been made at {restaurant}. \n\n Name: {name} \n Email: {email} \n Party: {party} \n Date: {date}"
+  },
+  "booking_confirmed_admin": {
+    "subject": "Subject",
+    "content": "Content"
+  },
+  "booking_cancelled_admin": {
+    "subject": "Booking cancelled",
+    "content": "Booking has been cancelled at {restaurant}. \n\n Name: {name} \n Email: {email} \n Party: {party} \n Date: {date}"
+  },
+  "booking_modified_admin": {
+    "subject": "Booking modified",
+    "content": "Booking modified"
+  },
+  "booking_pending_payment": {
+    "subject": "Subject pending payment EN",
+    "content": "Content pending payment EN"
+  }
+}

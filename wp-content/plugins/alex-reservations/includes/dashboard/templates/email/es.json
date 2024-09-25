@@ -1,0 +1,54 @@
+{
+  "booking_pending": {
+    "subject": "Su reserva está pendiente: {date}",
+    "content": "Hola {name},\n\n Su reserva está pendiente de ser confirmada.\n Denos unos momentos para asegurarnos que tenemos espacio disponible para usted.\n Recibirá otro email nuestro pronto.\n Si la solicitud se ha realizada fuera del horario de trabajo, no podremos confirmarlo hasta que abramos denuevo.\n\n Detalles de su solicitud:\n Nombre: {name}\n Email: {email}\n Personas: {party}\n Fecha: {date}\n Teléfono: {phone}\n\n Puede actualizar o cancelar su reserva en este link:\n {mybooking}\n\n Este mensaje se ha enviado desde {site_link} , {current_date}."
+  },
+  "booking_booked": {
+    "subject": "Su reserva está confirmada: {date}",
+    "content": "Hello {name}, \nSu reserva ha sido confirmada.\n\n Esperamos verle pronto.\n\n Detalles de su solicitud:\n Nombre: {name}\n Email: {email}\n Personas: {party}\n Fecha: {date}\n Teléfono: {phone} \n\n Puede actualizar o cancelar su reserva en este link:\n {mybooking} \n\n Este mensaje se ha enviado desde {site_link} , {current_date}."
+  },
+  "booking_confirmed": {
+    "subject": "Subject ES",
+    "content": "Content ES"
+  },
+  "booking_modified": {
+    "subject": "Subject modified",
+    "content": "Content modified"
+  },
+  "booking_denied": {
+    "subject": "Su reserva no ha sido aceptada: {date}",
+    "content": "Hola {name}, \nSentimos no poder atenderle para la fecha solititada. \nEstamos completos o no estamos abiertos en esa fecha. \n\n Detalles de su solicitud:\n Nombre: {name}\n Email: {email}\n Personas: {party}\n Fecha: {date}\n Teléfono: {phone} \n\n Este mensaje se ha enviado desde {site_link} , {current_date}."
+  },
+  "booking_cancelled": {
+    "subject": "Su reserva ha sido cancelada: {date}",
+    "content": "Hola {name}, \n Su reserva está cancelada. \n\n Detalles de su solicitud:\n Nombre: {name}\n Email: {email}\n Personas: {party}\n Fecha: {date}\n Teléfono: {phone} \n\n Este mensaje se ha enviado desde {site_link} , {current_date}."
+  },
+  "booking_no_show": {
+    "subject": "Sentimos que no se haya presentado",
+    "content": "Hello {name}, \n Su reserva ha sido marcada como 'no presentado' en nuetro sistema. \n\n Detalles de su solicitud:\n Nombre: {name}\n Email: {email}\n Personas: {party}\n Fecha: {date}\n Teléfono: {phone} \n\n Este mensaje se ha enviado desde {site_link} , {current_date}."
+  },
+  "booking_finished": {
+    "subject": "Como ha sido su experiencia?",
+    "content": "<p>Por favor, cuentenos como ha sido su experiencia en nuestro restaurante: \n {mybooking} \n\n Este mensaje se ha enviado desde {site_link} , {current_date}."
+  },
+  "booking_pending_admin": {
+    "subject": "Nueva reserva pendiente",
+    "content": "Se ha recibido una nueva reserva pendiente: {restaurant}.\n\n Nombre: {name} \n Email: {email} \n Personas: {party} \n Fecha: {date}"
+  },
+  "booking_booked_admin": {
+    "subject": "Nueva reserva confirmada",
+    "content": "Se ha recibido una nueva reserva confirmada: {restaurant}.\n\n Nombre: {name} \n Email: {email} \n Personas: {party} \n Fecha: {date}"
+  },
+  "booking_cancelled_admin": {
+    "subject": "Reserva cancelada",
+    "content": "Una reserva ha sido cancelada: {restaurant}. \n\n Nombre: {name} \n Email: {email} \n Personas: {party} \n Fecha: {date}"
+  },
+  "booking_modified_admin": {
+    "subject": "Booking modified",
+    "content": "Booking modified"
+  },
+  "booking_pending_payment": {
+    "subject": "Subject ES",
+    "content": "Content ES"
+  }
+}

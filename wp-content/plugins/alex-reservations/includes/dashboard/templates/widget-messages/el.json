@@ -1,0 +1,8 @@
+{
+  "message_pending": {
+    "content": "Thanks, \nyour booking request is waiting to be confirmed. \n\n You will receive updates in the email address you have provided. \n\n {booking_details}</p>"
+  },
+  "message_booked": {
+    "content": "Thanks, \nyour booking request has been confirmed. \n\n You will receive updates in the email address you have provided. \n\n {booking_details}</p>"
+  }
+}

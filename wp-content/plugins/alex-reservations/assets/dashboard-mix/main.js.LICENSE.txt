@@ -1,0 +1,84 @@
+/*!
+ * PhotoSphereViewer 5.3.0
+ * @copyright 2014-2015 Jérémy Heleine
+ * @copyright 2023 Damien "Mistic" Sorel
+ * @licence MIT (https://opensource.org/licenses/MIT)
+ */
+
+/*!
+ * PhotoSphereViewer.GalleryPlugin 5.3.0
+ * @copyright 2023 Damien "Mistic" Sorel
+ * @licence MIT (https://opensource.org/licenses/MIT)
+ */
+
+/*!
+ * PhotoSphereViewer.MarkersPlugin 5.3.0
+ * @copyright 2023 Damien "Mistic" Sorel
+ * @licence MIT (https://opensource.org/licenses/MIT)
+ */
+
+/*!
+ * The buffer module from node.js, for the browser.
+ *
+ * @author   Feross Aboukhadijeh <http://feross.org>
+ * @license  MIT
+ */
+
+/*!
+ * vuex v4.0.2
+ * (c) 2021 Evan You
+ * @license MIT
+ */
+
+/*! #__NO_SIDE_EFFECTS__ */
+
+/*! Fabric.js Copyright 2008-2015, Printio (Juriy Zaytsev, Maxim Chernyak) */
+
+/*! ieee754. BSD-3-Clause License. Feross Aboukhadijeh <https://feross.org/opensource> */
+
+/*! regenerator-runtime -- Copyright (c) 2014-present, Facebook, Inc. -- license (MIT): https://github.com/facebook/regenerator/blob/main/LICENSE */
+
+/**
+ * @license
+ * Copyright (c) 2014 The Polymer Project Authors. All rights reserved.
+ * This code may only be used under the BSD style license found at http://polymer.github.io/LICENSE.txt
+ * The complete set of authors may be found at http://polymer.github.io/AUTHORS.txt
+ * The complete set of contributors may be found at http://polymer.github.io/CONTRIBUTORS.txt
+ * Code distributed by Google as part of the polymer project is also
+ * subject to an additional IP rights grant found at http://polymer.github.io/PATENTS.txt
+ */
+
+/**
+ * @license
+ * Copyright 2010-2023 Three.js Authors
+ * SPDX-License-Identifier: MIT
+ */
+
+/**
+ * @license
+ * Lodash <https://lodash.com/>
+ * Copyright OpenJS Foundation and other contributors <https://openjsf.org/>
+ * Released under MIT license <https://lodash.com/license>
+ * Based on Underscore.js 1.8.3 <http://underscorejs.org/LICENSE>
+ * Copyright Jeremy Ashkenas, DocumentCloud and Investigative Reporters & Editors
+ */
+
+/**
+* @vue/shared v3.4.21
+* (c) 2018-present Yuxi (Evan) You and Vue contributors
+* @license MIT
+**/
+
+//! Copyright (c) JS Foundation and other contributors
+
+//! github.com/moment/moment-timezone
+
+//! license : MIT
+
+//! moment-timezone.js
+
+//! moment.js
+
+//! moment.js locale configuration
+
+//! version : 0.5.37

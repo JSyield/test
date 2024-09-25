@@ -1,0 +1,8 @@
+{
+    "config": {
+        "platform-check": false
+    },
+    "require": {
+        "cakephp/chronos": "^2.3"
+    }
+}

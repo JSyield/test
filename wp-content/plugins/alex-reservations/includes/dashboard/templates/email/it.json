@@ -1,0 +1,58 @@
+{
+  "booking_pending": {
+    "subject": "Subject IT",
+    "content": "Content IT"
+  },
+  "booking_booked": {
+    "subject": "Subject IT",
+    "content": "Content IT"
+  },
+  "booking_confirmed": {
+    "subject": "Subject IT",
+    "content": "Content IT"
+  },
+  "booking_modified": {
+    "subject": "Subject modified",
+    "content": "Content modified"
+  },
+  "booking_denied": {
+    "subject": "Subject IT",
+    "content": "Content IT"
+  },
+  "booking_cancelled": {
+    "subject": "Your booking for {date} has been cancelled",
+    "content": "Cancelled"
+  },
+  "booking_no_show": {
+    "subject": "Your booking for {date} has been no show",
+    "content": "No Show"
+  },
+  "booking_finished": {
+    "subject": "How was your experience?",
+    "content": "<p>Please give us your opinion:<p><p>{mybooking}</p>"
+  },
+  "booking_pending_admin": {
+    "subject": "Subject IT",
+    "content": "Content IT"
+  },
+  "booking_booked_admin": {
+    "subject": "Subject IT",
+    "content": "Content IT"
+  },
+  "booking_confirmed_admin": {
+    "subject": "Subject",
+    "content": "Content"
+  },
+  "booking_cancelled_admin": {
+    "subject": "Subject IT",
+    "content": "Content IT"
+  },
+  "booking_modified_admin": {
+    "subject": "Booking modified",
+    "content": "Booking modified"
+  },
+  "booking_pending_payment": {
+    "subject": "Subject IT",
+    "content": "Content IT"
+  }
+}
