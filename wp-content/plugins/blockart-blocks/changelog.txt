@@ -1,0 +1,294 @@
+== Changelog ==
+= 2.2.2 - 30-08-2024 =
+* Fix - Column block width option issue.
+* Fix - Paragraph block issue.
+
+= 2.2.1 - 17-07-2024 =
+* Added - Option to change row gap in section block.
+* Fix - Testimonial block responsive slider issue.
+* Fix - Compatibility issue with 6.6 version of WordPress.
+
+= 2.2.0 - 07-07-2024 =
+* Fix - Icon list spacing issue.
+* Fix - Modal block option issue.
+* Fix - Testimonial image control issue.
+* Fix - Slider swiper issue.
+
+= 2.1.9 - 21-06-2024 =
+* Fix - Image comparison block after image issue.
+* Fix - Image comparison label issue.
+* Fix - Button border background issue.
+
+= 2.1.8 - 30-05-2024 =
+* Fix - Column block issue.
+
+= 2.1.7 - 29-05-2024 =
+* Added - Option to change heading block width.
+* Added - Option to change column block orientation.
+* Added - Option to change column block row gap.
+* Added - Option to change column block justification.
+* Added - Option to change column block alignment.
+
+= 2.1.6 - 06-05-2024 =
+* Added       - Option to change tab title border.
+* Enhancement - General security measures.
+
+= 2.1.5 - 19-03-2024 =
+* Added - New FAQ block.
+* Added - New Image Comparison Block.
+* Added - New Price List Block.
+* Added - No follow option in button block.
+* Fix   - Testimonial Block issue.
+* Fix   - Additional classes issue.
+
+= 2.1.4 - 02-02-2024 =
+* Fix - Notice block cookie dismiss issue.
+* Fix - Style guide design issue.
+* Fix - Modal block design issue.
+* Fix - Counter block reset issue.
+* Fix - Social Share block design issue.
+
+= 2.1.3 - 19-01-2024 =
+* Fix - Control design issue.
+* Fix - Toc block issue.
+* Fix - Global Typography issue.
+* Fix - Button block hover color issue.
+* Fix - Social share icon block option issue.
+* Fix - Tab block background issue.
+
+= 2.1.2 - 16-01-2024 =
+* Tweak - Update stable tag.
+
+= 2.1.1 - 16-01-2024 =
+* Enhancement - Backward compatibility.
+
+= 2.1.0 - 15-01-2024 =
+* Enhancement - Slider Control.
+* Enhancement - Dimension Control.
+* Enhancement - Color Control.
+* Enhancement - Background Control.
+* Enhancement - Preset Control.
+* Enhancement - Alignment Control.
+* Enhancement - Select Control.
+* Enhancement - Typography Control.
+* Enhancement - Border Control.
+* Enhancement - Box shadow Control.
+* Enhancement - Icon Picker Control.
+* Enhancement - Library modal design.
+* Added       - Left Sidebar Panel.
+* Added       - Global color and typography setting.
+
+= 2.0.10 - 26-12-2023 =
+* Fix - Library search issue .
+* Fix - Copy/paste style.
+* Fix - CSS generation issue.
+
+= 2.0.9.1 - 06-12-2023 =
+* Fix - Js issue.
+* Fix - Button block issue.
+
+= 2.0.9 - 06-12-2023 =
+* Added - New Modal Block.
+* Added - New Icon Block.
+* Added - New Icon List Block.
+* Fix   - Google map layout issue.
+* Fix   - Social share icon gap issue.
+* Fix   - List gap and collapsible size issue.
+* Fix   - Tab block padding issue.
+
+= 2.0.8 - 23-11-2023 =
+* Fix - React compatibility issue.
+
+= 2.0.7.2 - 09-11-2023 =
+* Fix   - Asset generation.
+* Tweak - Update `Tested up to`.
+
+= 2.0.7 - 09-11-2023 =
+* Added   - New Call To Action Block.
+* Added   - New Slider Block.
+* Added   - New Testimonial Block.
+* Added   - New Progress Block.
+* Added   - New Blockquote Block.
+* Added   - New Notice Block.
+* Added   - New Timeline Block.
+* Added   - New Map Block.
+* Feature - Load Google fonts locally.
+* Feature - Preload local fonts.
+* Feature - Maintenance mode.
+* Feature - Editor options.
+
+= 2.0.6 - 17-10-2023 =
+* Fix - Table of contents block markup issue.
+* Fix - Countdown number option issue.
+* Fix - Typography issue.
+* Fix - Copy/Paste style.
+* Fix - Background image size and repeat issue.
+* Fix - Section vertical alignment issue.
+
+= 2.0.5.2 - 13-10-2023 =
+* Fix - Fix php error.
+
+= 2.0.5.1 - 13-10-2023 =
+* Fix - Image block width.
+* Fix - JS error.
+
+= 2.0.5 - 12-10-2023 =
+* Added   - New Tabs Block.
+* Added   - New Table of Content Block.
+* Added   - New Social Share Block.
+* Added   - New Lottie Animation Block.
+* Added   - New Counter Block.
+* Feature - Option to the counter block alignment.
+* Feature - Option to change start number, end number, and decimal places.
+* Feature - Option to change prefix, suffix, and thousand separator.
+* Feature - Option to change counter icon and icon size.
+* Feature - Option to change counter number markup, color, and typography.
+* Feature - Option to change counter background, border, and text typography.
+* Added   - New Countdown Block.
+* Feature - Option to change countdown date and time.
+* Feature - Option to change countdown layout.
+* Feature - Option to change countdown label character, and customize its color, and typography.
+* Feature - Option to change digit color and typography.
+* Feature - Option to change separator character, customize its color, and adjust its position.
+* Feature - Option to change digit box background, alignment, gap, padding, and border.
+* Feature - Option to change countdown block border.
+* Added   - New Team Block.
+* Feature - Option to change block background and alignment.
+* Feature - Option to enable and change team image.
+* Feature - Option to enable heading and customize its color, markup, typography, and margin.
+* Feature - Option to enable, customize, and style designation, text, including color, typography, and margin.
+* Feature - Option to change block border.
+* Feature - Option to change social icon and their URL.
+* Added   - New Info Box Block.
+* Feature - Option to change URL and URL content area.
+* Feature - Option to change layout and block background.
+* Feature - Option to change icon and its size.
+* Feature - Option to enable title, text, button and customize its color, and typography.
+* Feature - Additional image block features.
+* Fix     - Column icon issue.
+
+= 2.0.4 - 05-10-2023 =
+* Fix - Widget block style.
+* Fix - Php error.
+
+= 2.0.3 - 29-09-2023 =
+* Enhancement: Update google fonts.
+
+= 2.0.2 - 26-09-2023 =
+* Fix - button block js error.
+
+= 2.0.1 - 26-09-2023 =
+* Feature - Option to change the text highlight properties on heading block.
+* Feature - Option to change toggle heading.
+* Feature - Option to change sub heading toggle and their position properties.
+* Feature - Option to add the separator.
+* Feature - Option to change heading text shadow.
+* Feature - Option to change heading block icon settings.
+* Feature - Option to add top separator on section block.
+* Feature - Option to add bottom separator on section block.
+* Feature - Option to change button hover style on button block.
+* Feature - Option to add button animation.
+* Feature - Option to change button opacity.
+* Feature - Option to change button position properties.
+* Feature - Option to change button html tag.
+* Feature - Option to enable button caption.
+* Feature - Option to change image hover properties.
+* Feature - Option to change overlay properties.
+* Feature - Option to change heading options.
+* Feature - Option to change image description properties.
+* Feature - Option to add mask panel.
+* Feature - Option to change image heading.
+* Feature - Option to change separator.
+* Feature - Option to change image alignment.
+* Feature - Option to change drop shadow.
+* Feature - Option to add image filter.
+
+= 2.0.0.1 - 20-04-2023 =
+* Fix - Block CSS generation issue.
+
+= 2.0.0 - 17-04-2023 =
+* Fix           - React 18 render errors.
+* Enhancement   - CSS generation for blocks used with block themes.
+* Enhancement   - Dynamic CSS filename with timestamp to avoid browser caching issues.
+
+= 1.1.4 - 27-02-2023 =
+* Fix         - Flickering issue while using block URL setting.
+* FIx         - Block issue while text is selected among multiple blocks.
+* Enhancement - Tooltip component.
+
+= 1.1.3.1 - 13-12-2022 =
+* Fix - Blocks CSS issue added via customizer.
+
+= 1.1.3 - 08-12-2022 =
+* Fix - Block render issue in widget block editor.
+* Fix - Block css generation issue in customizer.
+* Fix - Possible PHP errors.
+* Fix - Button block focus and active state colors issue.
+
+= 1.1.2 - 22-09-2022 =
+* Enhancement - Optimize dynamic blocks CSS.
+* Fix         - Background image setting not working.
+
+= 1.1.1 - 20-09-2022 =
+* Enhancement - Image block on frontend.
+* Fix         - Slider block control converting decimal to integer.
+* Enhancement - Button block ability to group/stack multiple buttons.
+* Fix         - CSS generation for blocks.
+
+= 1.1.0 - 05-09-2022 =
+* Fix         - Button block icon size and gap settings not working.
+* Enhancement - Inspector control tabs and panels.
+* Fix         - Widget blocks not generating CSS for latest changes.
+* Fix         - Compatibility issue with older version of WordPress.
+
+= 1.0.9 - 23-08-2022 =
+* Update - Minimum required WordPress version to 5.5.
+
+= 1.0.8 - 23-08-2022 =
+* Fix         - Toolbar deprecated warning.
+* Fix         - Library data initial fetch issue.
+* Enhancement - Show library data API connection detail error message.
+
+= 1.0.7 - 08-08-2022 =
+* Tweak - Image block editor improvement.
+* Tweak - Blocks tab inspector control improvement.
+* Fix   - Button block icon alignment issue.
+* Fix   - Template/Section import issue.
+
+= 1.0.6 - 17-06-2022 =
+* Enhancement - Cache library data.
+
+= 1.0.5 - 16-06-2022 =
+* Update      - Readme description.
+* Enhancement - Library data error handling.
+
+= 1.0.4 - 17-06-2022 =
+* Enhancement - BlockArt templates and section library.
+* Update      - Header field `Tested up to`.
+* Fix         - Possible block recovery issue.
+* Fix         - Widget block css issue.
+
+= 1.0.3 - 23-02-2022 =
+* Enhancement - Reusable block CSS.
+* Added       - Review notice.
+
+= 1.0.2 - 25-01-2022 =
+* Fix         - Color palette in WP 5.9.
+* Fix         - Section block in WP 5.9.
+* Fix         - Dynamic CSS issues on editor in WP 5.9.
+* Fix         - Color Picker UI in WP 5.9.
+* Fix         - Library modal design in WP 5.9.
+* Enhancement - Block layouts.
+
+= 1.0.1 - 12-01-2022 =
+* Fix         - Library templates count.
+* Enhancement - Section block alignment support.
+* Enhancement - Widget block CSS generation and loading on frontend.
+* Enhancement - Block settings on widget and customize screens.
+* Fix         - Block recovery issue on widget and customize screens.
+* Enhancement - Copy and paste styles on older version of WordPress.
+* Enhancement - Blocks live preview on customize screen.
+* Enhancement - Section block editor CSS.
+
+= 1.0.0 - 02-12-2021 =
+* Enhancement - Initial release
